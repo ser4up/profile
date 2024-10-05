@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /f/
+Crawl-delay: 2
 
 Sitemap: https://seg.cv.ua/sitemap.xml
